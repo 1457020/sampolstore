@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Sampol brand"
+AuthUserFile /home/TDIW/tdiw-b7/public_html/.htpasswd
+Require valid-user
